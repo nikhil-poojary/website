@@ -1,0 +1,112 @@
+body{
+    margin: auto;
+    background-image: linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.1)), url("paper3.png");
+   
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: auto;
+
+    
+}
+
+.head h2{
+    font-family: sans-serif;
+    color: black;
+    font-size: 40px;
+    float: left;
+    margin-left: 25px;
+
+     
+     
+     
+}
+.formsee{
+    height: 480px;
+    width: 380px;
+    background-color: rgba(0,0,0,0.4);
+   top: 25%;
+    left: 10%;
+    position: absolute;
+    box-sizing: border-box;
+    padding: 70px 40px;
+    color: white;
+    font-size: 20px;
+    
+     
+}
+.formsee h1{
+    margin: 0px;
+    padding: 0 0 20px;
+    text-align: center;
+    font-size: 34px;
+    letter-spacing: 1px;
+    
+}
+.formseee form p{
+    margin: 0px;
+    padding: 0px;
+    font-weight: bold;
+    font-size: 18px;
+    
+}
+.formsee input{
+    width: 100%;
+    margin-bottom: 20px;
+    color: white;
+}
+.formsee input[type="text"], input[type="password"]{
+    border: none;
+    border-bottom: 1px solid white;
+    background: transparent;
+    font-size: 16px;
+    outline: none;
+    height: 20px;
+    color: #fff;
+}
+.formsee input[type="Submit"]{
+    border: none;
+    outline: none;
+    background-color: blue;
+    height: 50px;
+    font-size: 22px;
+    border-radius: 10px;
+    color: white;
+    text-align: center;
+     
+}
+.formsee input[type="Submit"]:hover{
+    background-color: dodgerblue;
+}
+.formsee a{
+    font-size: 18px;
+    text-decoration: none;
+    
+    color: darkblue;
+}
+.formsee a:hover{
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

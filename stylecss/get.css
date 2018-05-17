@@ -1,0 +1,120 @@
+.body{
+   
+    position: absolute;
+   
+}
+.container{
+    position: fixed;
+    width: 99%;
+    height: 99%;
+    background-image: url("table-3295557_1920.jpg");
+    background-repeat: no-repeat;
+   background-position: center;
+    background-size: cover;
+    -webkit-filter: blur(0px);
+    
+}
+.middle{
+    width: 1050px;
+    height: 600px;
+    background-color: rgba(0,0,0,0.7);
+    color: white;
+    margin-left: 190px;
+    margin-top: 100px;
+      -webkit-animation-duration: 1s;
+    -webkit-animation-delay: 0s;
+    -webkit-animation-iteration-count: 1s;
+    
+}
+.middle h2{
+    text-align: center;
+    font-family: cursive;
+    font-size: 30px;
+    margin-top: 0px;
+    letter-spacing: 1px;
+    
+}
+.left{
+    width: 59%;
+    height:89%;
+    float:left;
+    
+    margin-left: 1px;
+}
+
+
+.left h3{
+    color: white;
+    font-size: 26px;
+    margin-left: 20px;
+    font-family: cursive;
+    letter-spacing: 1px;
+    
+}
+.left p{
+    float: left;
+    margin-left: 20px;
+    letter-spacing: 1px;
+    font-family: cursive;
+    
+}
+.right{
+    width: 40%;
+    height: 89%;
+    float: right;
+    
+    margin-right: 1px;
+}
+.right h4{
+    font-size: 18px;
+    letter-spacing: 1px;
+    margin-left: 100px;
+    font-family: cursive;
+    
+}
+.right form p{
+    margin-left: 100px;
+    letter-spacing: 1px;
+    font-family: cursive;
+    
+}
+#edit-1{
+    margin-left: 100px;
+    width: 7cm;
+    height: 30px;
+    border: 1px solid white;
+    border-radius: 2px;
+    
+}
+#edit-2{
+    margin-left: 4px;
+    width: 7cm;
+    height: 30px;
+    border: 1px solid white;
+    border-radius: 2px;
+    
+}
+#edit-3{
+    margin-left: 100px;
+    width: 7cm;
+    height: 30px;
+    border: 1px solid white;
+    border-radius: 2px;
+    
+}
+#edit-4{
+    margin-left: 100px;
+    width: 7cm;
+    height: 30px;
+    border: 1px solid dodgerblue;
+    background-color: dodgerblue;
+    font-size: 16px;
+    color: white;
+    border-radius: 2px;
+   
+    
+}
+#edit-4:hover{
+    background-color: white;
+    color: dodgerblue;
+} 
